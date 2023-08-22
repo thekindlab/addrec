@@ -1,0 +1,9 @@
+__pycache__/
+.mypy_cache/
+reddit_dataset/
+.DS_Store
+test/
+env/
+*.zip
+dataset/
+anonymized_dataset/
