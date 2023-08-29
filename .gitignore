@@ -4,6 +4,5 @@ reddit_dataset/
 .DS_Store
 test/
 env/
-*.zip
 dataset/
 anonymized_dataset/

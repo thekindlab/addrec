@@ -19,6 +19,7 @@ columns_to_drop  = [
                 'author_flair_css_class',
                 'anonymized_masks.1',
                 'anonymized_body.1',
+                'anonymized_masks'
                 ]
 
 def main():
