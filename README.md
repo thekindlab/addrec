@@ -1,10 +1,10 @@
-# ADDReC: Anonymized Disability Discourse Reddit Corpus أدرك
+# ADDReC: Anonymized Disability Discourse Reddit Corpus  [أدرك](https://www.almaany.com/en/dict/ar-en/%D8%A3%D8%AF%D8%B1%D9%83/#:~:text=%D8%A3%D8%AF%D8%B1%D9%83%20%2D%20Translation%20and%20Meaning%20in%20Almaany%20English%20Arabic%20Dictionary&text=%2D%20Come%20to%20know%20about%20%2D%20learn,find%20out%3B%20apprehe...)
 
 ## Notes:
 
 ### Current State
 
-We used the presidio anonymizer, but found issues with its name recognition system.
+We used the [presidio anonymizer](https://microsoft.github.io/presidio/anonymizer/), but found issues with its name recognition system.
 It worked very well for identifying raw number ID's, but the named entity recognition
 tends to miss named locations and grab onto medication names.
 
