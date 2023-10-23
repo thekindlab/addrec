@@ -1,5 +1,8 @@
 # ADDReC: Anonymized Disability Discourse Reddit Corpus  [أدرك](https://www.almaany.com/en/dict/ar-en/%D8%A3%D8%AF%D8%B1%D9%83/#:~:text=%D8%A3%D8%AF%D8%B1%D9%83%20%2D%20Translation%20and%20Meaning%20in%20Almaany%20English%20Arabic%20Dictionary&text=%2D%20Come%20to%20know%20about%20%2D%20learn,find%20out%3B%20apprehe...)
 
+## Citation
+Paper: [Large-Scale Anonymized Text-based Disability Discourse Dataset](https://dl.acm.org/doi/10.1145/3597638.3614476) 
+
 ## Data
 
 Reddit comments from three subreddits over a 5 year period (January 2015- Decemeber 2019).
